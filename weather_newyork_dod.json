@@ -1,0 +1,1832 @@
+{
+    "1/1/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 38
+    },
+    "1/2/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 36
+    },
+    "1/3/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 40
+    },
+    "1/4/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 25
+    },
+    "1/5/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 20
+    },
+    "1/6/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 33
+    },
+    "1/7/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 39
+    },
+    "1/8/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 39
+    },
+    "1/9/16": {
+        "precip": "T",
+        "events": "Rain",
+        "mean_temp": 44
+    },
+    "1/10/16": {
+        "precip": 1.8,
+        "events": "Rain",
+        "mean_temp": 50
+    },
+    "1/11/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 33
+    },
+    "1/12/16": {
+        "precip": "T",
+        "events": "",
+        "mean_temp": 35
+    },
+    "1/13/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 26
+    },
+    "1/14/16": {
+        "precip": "T",
+        "events": "",
+        "mean_temp": 30
+    },
+    "1/15/16": {
+        "precip": "T",
+        "events": "",
+        "mean_temp": 43
+    },
+    "1/16/16": {
+        "precip": 0.24,
+        "events": "Rain",
+        "mean_temp": 47
+    },
+    "1/17/16": {
+        "precip": 0.05,
+        "events": "Fog-Snow",
+        "mean_temp": 36
+    },
+    "1/18/16": {
+        "precip": "T",
+        "events": "Snow",
+        "mean_temp": 25
+    },
+    "1/19/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 22
+    },
+    "1/20/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 32
+    },
+    "1/21/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 31
+    },
+    "1/22/16": {
+        "precip": 0.01,
+        "events": "Snow",
+        "mean_temp": 26
+    },
+    "1/23/16": {
+        "precip": 2.31,
+        "events": "Fog-Snow",
+        "mean_temp": 26
+    },
+    "1/24/16": {
+        "precip": "T",
+        "events": "Snow",
+        "mean_temp": 28
+    },
+    "1/25/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 34
+    },
+    "1/26/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 43
+    },
+    "1/27/16": {
+        "precip": "T",
+        "events": "Rain",
+        "mean_temp": 41
+    },
+    "1/28/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 37
+    },
+    "1/29/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 36
+    },
+    "1/30/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 34
+    },
+    "1/31/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 46
+    },
+    "2/1/16": {
+        "precip": 0.01,
+        "events": "Rain",
+        "mean_temp": 52
+    },
+    "2/2/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 44
+    },
+    "2/3/16": {
+        "precip": 0.73,
+        "events": "Rain",
+        "mean_temp": 51
+    },
+    "2/4/16": {
+        "precip": "T",
+        "events": "Rain",
+        "mean_temp": 52
+    },
+    "2/5/16": {
+        "precip": 0.53,
+        "events": "Fog-Rain-Snow",
+        "mean_temp": 38
+    },
+    "2/6/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 34
+    },
+    "2/7/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 40
+    },
+    "2/8/16": {
+        "precip": 0.05,
+        "events": "Snow",
+        "mean_temp": 34
+    },
+    "2/9/16": {
+        "precip": "T",
+        "events": "",
+        "mean_temp": 32
+    },
+    "2/10/16": {
+        "precip": 0.01,
+        "events": "Snow",
+        "mean_temp": 35
+    },
+    "2/11/16": {
+        "precip": "T",
+        "events": "Snow",
+        "mean_temp": 25
+    },
+    "2/12/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 21
+    },
+    "2/13/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 14
+    },
+    "2/14/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 7
+    },
+    "2/15/16": {
+        "precip": 0.44,
+        "events": "Fog-Rain-Snow",
+        "mean_temp": 24
+    },
+    "2/16/16": {
+        "precip": 1.01,
+        "events": "Fog-Rain",
+        "mean_temp": 45
+    },
+    "2/17/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 37
+    },
+    "2/18/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 32
+    },
+    "2/19/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 32
+    },
+    "2/20/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 50
+    },
+    "2/21/16": {
+        "precip": 0.03,
+        "events": "Rain",
+        "mean_temp": 50
+    },
+    "2/22/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 45
+    },
+    "2/23/16": {
+        "precip": 0.3,
+        "events": "Rain",
+        "mean_temp": 38
+    },
+    "2/24/16": {
+        "precip": 1.22,
+        "events": "Rain",
+        "mean_temp": 48
+    },
+    "2/25/16": {
+        "precip": 0.02,
+        "events": "Rain",
+        "mean_temp": 49
+    },
+    "2/26/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 33
+    },
+    "2/27/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 34
+    },
+    "2/28/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 49
+    },
+    "2/29/16": {
+        "precip": 0.05,
+        "events": "Rain",
+        "mean_temp": 54
+    },
+    "3/1/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 46
+    },
+    "3/2/16": {
+        "precip": 0.14,
+        "events": "Rain",
+        "mean_temp": 42
+    },
+    "3/3/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 31
+    },
+    "3/4/16": {
+        "precip": 0.11,
+        "events": "Snow",
+        "mean_temp": 35
+    },
+    "3/5/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 35
+    },
+    "3/6/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 38
+    },
+    "3/7/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 48
+    },
+    "3/8/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 57
+    },
+    "3/9/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 61
+    },
+    "3/10/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 71
+    },
+    "3/11/16": {
+        "precip": 0.06,
+        "events": "Rain",
+        "mean_temp": 58
+    },
+    "3/12/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 50
+    },
+    "3/13/16": {
+        "precip": "T",
+        "events": "Rain",
+        "mean_temp": 56
+    },
+    "3/14/16": {
+        "precip": 0.29,
+        "events": "Rain",
+        "mean_temp": 46
+    },
+    "3/15/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 51
+    },
+    "3/16/16": {
+        "precip": 0.02,
+        "events": "Rain",
+        "mean_temp": 57
+    },
+    "3/17/16": {
+        "precip": "T",
+        "events": "",
+        "mean_temp": 54
+    },
+    "3/18/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 50
+    },
+    "3/19/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 41
+    },
+    "3/20/16": {
+        "precip": 0.07,
+        "events": "Snow",
+        "mean_temp": 38
+    },
+    "3/21/16": {
+        "precip": 0.06,
+        "events": "Snow",
+        "mean_temp": 41
+    },
+    "3/22/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 46
+    },
+    "3/23/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 60
+    },
+    "3/24/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 50
+    },
+    "3/25/16": {
+        "precip": 0.04,
+        "events": "Rain",
+        "mean_temp": 58
+    },
+    "3/26/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 47
+    },
+    "3/27/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 49
+    },
+    "3/28/16": {
+        "precip": 0.38,
+        "events": "Rain",
+        "mean_temp": 52
+    },
+    "3/29/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 47
+    },
+    "3/30/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 47
+    },
+    "3/31/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 61
+    },
+    "4/1/16": {
+        "precip": 0.01,
+        "events": "Rain",
+        "mean_temp": 70
+    },
+    "4/2/16": {
+        "precip": 0.15,
+        "events": "Rain",
+        "mean_temp": 55
+    },
+    "4/3/16": {
+        "precip": 0.09,
+        "events": "Rain",
+        "mean_temp": 42
+    },
+    "4/4/16": {
+        "precip": 0.47,
+        "events": "Rain-Snow",
+        "mean_temp": 37
+    },
+    "4/5/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 35
+    },
+    "4/6/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 39
+    },
+    "4/7/16": {
+        "precip": 0.09,
+        "events": "Rain",
+        "mean_temp": 53
+    },
+    "4/8/16": {
+        "precip": 0.01,
+        "events": "",
+        "mean_temp": 45
+    },
+    "4/9/16": {
+        "precip": 0.09,
+        "events": "Rain",
+        "mean_temp": 40
+    },
+    "4/10/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 41
+    },
+    "4/11/16": {
+        "precip": 0.01,
+        "events": "Rain",
+        "mean_temp": 54
+    },
+    "4/12/16": {
+        "precip": 0.2,
+        "events": "Rain",
+        "mean_temp": 52
+    },
+    "4/13/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 49
+    },
+    "4/14/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 53
+    },
+    "4/15/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 54
+    },
+    "4/16/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 56
+    },
+    "4/17/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 60
+    },
+    "4/18/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 67
+    },
+    "4/19/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 64
+    },
+    "4/20/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 59
+    },
+    "4/21/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 61
+    },
+    "4/22/16": {
+        "precip": "T",
+        "events": "",
+        "mean_temp": 71
+    },
+    "4/23/16": {
+        "precip": 0.16,
+        "events": "Rain",
+        "mean_temp": 63
+    },
+    "4/24/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 58
+    },
+    "4/25/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 60
+    },
+    "4/26/16": {
+        "precip": 0.24,
+        "events": "Rain",
+        "mean_temp": 54
+    },
+    "4/27/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 54
+    },
+    "4/28/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 54
+    },
+    "4/29/16": {
+        "precip": 0.05,
+        "events": "Rain",
+        "mean_temp": 52
+    },
+    "4/30/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 56
+    },
+    "5/1/16": {
+        "precip": 0.16,
+        "events": "Rain",
+        "mean_temp": 48
+    },
+    "5/2/16": {
+        "precip": 0.04,
+        "events": "Rain",
+        "mean_temp": 53
+    },
+    "5/3/16": {
+        "precip": 0.61,
+        "events": "Rain",
+        "mean_temp": 54
+    },
+    "5/4/16": {
+        "precip": 0.01,
+        "events": "Rain",
+        "mean_temp": 50
+    },
+    "5/5/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 52
+    },
+    "5/6/16": {
+        "precip": 0.54,
+        "events": "Fog-Rain",
+        "mean_temp": 51
+    },
+    "5/7/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 54
+    },
+    "5/8/16": {
+        "precip": 0.16,
+        "events": "Rain",
+        "mean_temp": 58
+    },
+    "5/9/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 62
+    },
+    "5/10/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 57
+    },
+    "5/11/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 63
+    },
+    "5/12/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 68
+    },
+    "5/13/16": {
+        "precip": 0.25,
+        "events": "",
+        "mean_temp": 62
+    },
+    "5/14/16": {
+        "precip": "T",
+        "events": "",
+        "mean_temp": 65
+    },
+    "5/15/16": {
+        "precip": "T",
+        "events": "",
+        "mean_temp": 52
+    },
+    "5/16/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 55
+    },
+    "5/17/16": {
+        "precip": "T",
+        "events": "",
+        "mean_temp": 58
+    },
+    "5/18/16": {
+        "precip": "T",
+        "events": "",
+        "mean_temp": 56
+    },
+    "5/19/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 64
+    },
+    "5/20/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 65
+    },
+    "5/21/16": {
+        "precip": 0.04,
+        "events": "Rain",
+        "mean_temp": 60
+    },
+    "5/22/16": {
+        "precip": 0.09,
+        "events": "Rain",
+        "mean_temp": 61
+    },
+    "5/23/16": {
+        "precip": 0.02,
+        "events": "Rain",
+        "mean_temp": 67
+    },
+    "5/24/16": {
+        "precip": 0.18,
+        "events": "Rain",
+        "mean_temp": 66
+    },
+    "5/25/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 75
+    },
+    "5/26/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 80
+    },
+    "5/27/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 80
+    },
+    "5/28/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 82
+    },
+    "5/29/16": {
+        "precip": "T",
+        "events": "",
+        "mean_temp": 79
+    },
+    "5/30/16": {
+        "precip": 1.65,
+        "events": "Rain",
+        "mean_temp": 75
+    },
+    "5/31/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 78
+    },
+    "6/1/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 75
+    },
+    "6/2/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 70
+    },
+    "6/3/16": {
+        "precip": 0.04,
+        "events": "Rain",
+        "mean_temp": 67
+    },
+    "6/4/16": {
+        "precip": 0.4,
+        "events": "Rain",
+        "mean_temp": 75
+    },
+    "6/5/16": {
+        "precip": 0.91,
+        "events": "Fog-Rain",
+        "mean_temp": 68
+    },
+    "6/6/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 74
+    },
+    "6/7/16": {
+        "precip": "T",
+        "events": "",
+        "mean_temp": 75
+    },
+    "6/8/16": {
+        "precip": 0.45,
+        "events": "Rain",
+        "mean_temp": 60
+    },
+    "6/9/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 63
+    },
+    "6/10/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 67
+    },
+    "6/11/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 74
+    },
+    "6/12/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 73
+    },
+    "6/13/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 66
+    },
+    "6/14/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 69
+    },
+    "6/15/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 74
+    },
+    "6/16/16": {
+        "precip": 0.22,
+        "events": "Rain",
+        "mean_temp": 70
+    },
+    "6/17/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 71
+    },
+    "6/18/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 74
+    },
+    "6/19/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 77
+    },
+    "6/20/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 74
+    },
+    "6/21/16": {
+        "precip": "T",
+        "events": "Rain",
+        "mean_temp": 80
+    },
+    "6/22/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 77
+    },
+    "6/23/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 76
+    },
+    "6/24/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 76
+    },
+    "6/25/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 75
+    },
+    "6/26/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 77
+    },
+    "6/27/16": {
+        "precip": 0.45,
+        "events": "Rain",
+        "mean_temp": 75
+    },
+    "6/28/16": {
+        "precip": 0.12,
+        "events": "Rain",
+        "mean_temp": 72
+    },
+    "6/29/16": {
+        "precip": 0.01,
+        "events": "Rain",
+        "mean_temp": 75
+    },
+    "6/30/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 76
+    },
+    "7/1/16": {
+        "precip": 0.83,
+        "events": "Fog-Rain",
+        "mean_temp": 73
+    },
+    "7/2/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 70
+    },
+    "7/3/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 71
+    },
+    "7/4/16": {
+        "precip": 0.49,
+        "events": "Rain",
+        "mean_temp": 75
+    },
+    "7/5/16": {
+        "precip": 0.66,
+        "events": "Fog-Rain",
+        "mean_temp": 78
+    },
+    "7/6/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 83
+    },
+    "7/7/16": {
+        "precip": 0.04,
+        "events": "Rain",
+        "mean_temp": 83
+    },
+    "7/8/16": {
+        "precip": 0.08,
+        "events": "Rain",
+        "mean_temp": 77
+    },
+    "7/9/16": {
+        "precip": 0.53,
+        "events": "Rain",
+        "mean_temp": 69
+    },
+    "7/10/16": {
+        "precip": "T",
+        "events": "",
+        "mean_temp": 73
+    },
+    "7/11/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 73
+    },
+    "7/12/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 75
+    },
+    "7/13/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 78
+    },
+    "7/14/16": {
+        "precip": 0.62,
+        "events": "Fog-Rain",
+        "mean_temp": 81
+    },
+    "7/15/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 84
+    },
+    "7/16/16": {
+        "precip": "T",
+        "events": "",
+        "mean_temp": 83
+    },
+    "7/17/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 82
+    },
+    "7/18/16": {
+        "precip": 0.35,
+        "events": "Rain",
+        "mean_temp": 83
+    },
+    "7/19/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 78
+    },
+    "7/20/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 77
+    },
+    "7/21/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 81
+    },
+    "7/22/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 84
+    },
+    "7/23/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 88
+    },
+    "7/24/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 85
+    },
+    "7/25/16": {
+        "precip": 1.0,
+        "events": "Fog-Rain",
+        "mean_temp": 83
+    },
+    "7/26/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 81
+    },
+    "7/27/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 83
+    },
+    "7/28/16": {
+        "precip": "T",
+        "events": "Rain",
+        "mean_temp": 85
+    },
+    "7/29/16": {
+        "precip": 1.09,
+        "events": "Fog-Rain",
+        "mean_temp": 77
+    },
+    "7/30/16": {
+        "precip": 0.25,
+        "events": "Rain",
+        "mean_temp": 79
+    },
+    "7/31/16": {
+        "precip": 1.08,
+        "events": "Rain",
+        "mean_temp": 75
+    },
+    "8/1/16": {
+        "precip": "T",
+        "events": "Rain",
+        "mean_temp": 75
+    },
+    "8/2/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 74
+    },
+    "8/3/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 73
+    },
+    "8/4/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 74
+    },
+    "8/5/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 76
+    },
+    "8/6/16": {
+        "precip": 0.05,
+        "events": "Rain",
+        "mean_temp": 80
+    },
+    "8/7/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 78
+    },
+    "8/8/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 79
+    },
+    "8/9/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 79
+    },
+    "8/10/16": {
+        "precip": 0.09,
+        "events": "Rain",
+        "mean_temp": 81
+    },
+    "8/11/16": {
+        "precip": 0.15,
+        "events": "Rain",
+        "mean_temp": 83
+    },
+    "8/12/16": {
+        "precip": 0.32,
+        "events": "Rain",
+        "mean_temp": 83
+    },
+    "8/13/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 89
+    },
+    "8/14/16": {
+        "precip": 0.06,
+        "events": "Rain",
+        "mean_temp": 86
+    },
+    "8/15/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 85
+    },
+    "8/16/16": {
+        "precip": 0.11,
+        "events": "Rain",
+        "mean_temp": 83
+    },
+    "8/17/16": {
+        "precip": 0.01,
+        "events": "",
+        "mean_temp": 81
+    },
+    "8/18/16": {
+        "precip": 0.03,
+        "events": "Rain",
+        "mean_temp": 79
+    },
+    "8/19/16": {
+        "precip": 0.01,
+        "events": "",
+        "mean_temp": 81
+    },
+    "8/20/16": {
+        "precip": 0.82,
+        "events": "Fog-Rain",
+        "mean_temp": 77
+    },
+    "8/21/16": {
+        "precip": 0.31,
+        "events": "Fog-Rain",
+        "mean_temp": 80
+    },
+    "8/22/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 72
+    },
+    "8/23/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 72
+    },
+    "8/24/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 78
+    },
+    "8/25/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 78
+    },
+    "8/26/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 83
+    },
+    "8/27/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 82
+    },
+    "8/28/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 81
+    },
+    "8/29/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 83
+    },
+    "8/30/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 78
+    },
+    "8/31/16": {
+        "precip": "T",
+        "events": "",
+        "mean_temp": 82
+    },
+    "9/1/16": {
+        "precip": 0.5,
+        "events": "Fog-Rain",
+        "mean_temp": 74
+    },
+    "9/2/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 74
+    },
+    "9/3/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 71
+    },
+    "9/4/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 73
+    },
+    "9/5/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 75
+    },
+    "9/6/16": {
+        "precip": "T",
+        "events": "",
+        "mean_temp": 76
+    },
+    "9/7/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 78
+    },
+    "9/8/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 80
+    },
+    "9/9/16": {
+        "precip": 0.22,
+        "events": "Rain",
+        "mean_temp": 83
+    },
+    "9/10/16": {
+        "precip": "T",
+        "events": "",
+        "mean_temp": 82
+    },
+    "9/11/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 75
+    },
+    "9/12/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 70
+    },
+    "9/13/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 74
+    },
+    "9/14/16": {
+        "precip": 0.56,
+        "events": "Fog-Rain",
+        "mean_temp": 79
+    },
+    "9/15/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 68
+    },
+    "9/16/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 67
+    },
+    "9/17/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 67
+    },
+    "9/18/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 76
+    },
+    "9/19/16": {
+        "precip": 0.68,
+        "events": "Rain",
+        "mean_temp": 73
+    },
+    "9/20/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 75
+    },
+    "9/21/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 76
+    },
+    "9/22/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 76
+    },
+    "9/23/16": {
+        "precip": 0.01,
+        "events": "",
+        "mean_temp": 76
+    },
+    "9/24/16": {
+        "precip": 0.2,
+        "events": "Rain",
+        "mean_temp": 65
+    },
+    "9/25/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 62
+    },
+    "9/26/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 64
+    },
+    "9/27/16": {
+        "precip": 0.22,
+        "events": "Rain",
+        "mean_temp": 69
+    },
+    "9/28/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 63
+    },
+    "9/29/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 61
+    },
+    "9/30/16": {
+        "precip": 0.4,
+        "events": "Rain",
+        "mean_temp": 58
+    },
+    "10/1/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 59
+    },
+    "10/2/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 60
+    },
+    "10/3/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 66
+    },
+    "10/4/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 65
+    },
+    "10/5/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 60
+    },
+    "10/6/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 64
+    },
+    "10/7/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 66
+    },
+    "10/8/16": {
+        "precip": 0.23,
+        "events": "Rain",
+        "mean_temp": 63
+    },
+    "10/9/16": {
+        "precip": 0.55,
+        "events": "Rain",
+        "mean_temp": 58
+    },
+    "10/10/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 56
+    },
+    "10/11/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 55
+    },
+    "10/12/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 60
+    },
+    "10/13/16": {
+        "precip": "T",
+        "events": "",
+        "mean_temp": 60
+    },
+    "10/14/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 55
+    },
+    "10/15/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 55
+    },
+    "10/16/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 61
+    },
+    "10/17/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 72
+    },
+    "10/18/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 74
+    },
+    "10/19/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 75
+    },
+    "10/20/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 66
+    },
+    "10/21/16": {
+        "precip": 1.11,
+        "events": "Fog-Rain",
+        "mean_temp": 63
+    },
+    "10/22/16": {
+        "precip": 0.29,
+        "events": "Rain",
+        "mean_temp": 52
+    },
+    "10/23/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 53
+    },
+    "10/24/16": {
+        "precip": "T",
+        "events": "",
+        "mean_temp": 55
+    },
+    "10/25/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 48
+    },
+    "10/26/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 45
+    },
+    "10/27/16": {
+        "precip": 1.41,
+        "events": "Rain",
+        "mean_temp": 48
+    },
+    "10/28/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 47
+    },
+    "10/29/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 52
+    },
+    "10/30/16": {
+        "precip": 0.56,
+        "events": "Fog-Rain",
+        "mean_temp": 65
+    },
+    "10/31/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 49
+    },
+    "11/1/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 49
+    },
+    "11/2/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 62
+    },
+    "11/3/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 65
+    },
+    "11/4/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 54
+    },
+    "11/5/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 53
+    },
+    "11/6/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 52
+    },
+    "11/7/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 47
+    },
+    "11/8/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 54
+    },
+    "11/9/16": {
+        "precip": 0.06,
+        "events": "Rain",
+        "mean_temp": 54
+    },
+    "11/10/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 48
+    },
+    "11/11/16": {
+        "precip": 0.0,
+        "events": "Rain",
+        "mean_temp": 52
+    },
+    "11/12/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 44
+    },
+    "11/13/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 51
+    },
+    "11/14/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 54
+    },
+    "11/15/16": {
+        "precip": 1.81,
+        "events": "Fog-Rain",
+        "mean_temp": 52
+    },
+    "11/16/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 53
+    },
+    "11/17/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 55
+    },
+    "11/18/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 54
+    },
+    "11/19/16": {
+        "precip": 0.25,
+        "events": "Rain",
+        "mean_temp": 50
+    },
+    "11/20/16": {
+        "precip": 0.31,
+        "events": "Rain-Snow",
+        "mean_temp": 38
+    },
+    "11/21/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 39
+    },
+    "11/22/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 39
+    },
+    "11/23/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 40
+    },
+    "11/24/16": {
+        "precip": 0.03,
+        "events": "",
+        "mean_temp": 43
+    },
+    "11/25/16": {
+        "precip": 0.02,
+        "events": "Rain",
+        "mean_temp": 50
+    },
+    "11/26/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 45
+    },
+    "11/27/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 45
+    },
+    "11/28/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 45
+    },
+    "11/29/16": {
+        "precip": 2.2,
+        "events": "Fog-Rain",
+        "mean_temp": 56
+    },
+    "11/30/16": {
+        "precip": 0.73,
+        "events": "Rain",
+        "mean_temp": 54
+    },
+    "12/1/16": {
+        "precip": 0.07,
+        "events": "Rain",
+        "mean_temp": 48
+    },
+    "12/2/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 46
+    },
+    "12/3/16": {
+        "precip": "T",
+        "events": "",
+        "mean_temp": 44
+    },
+    "12/4/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 43
+    },
+    "12/5/16": {
+        "precip": 0.19,
+        "events": "Rain",
+        "mean_temp": 44
+    },
+    "12/6/16": {
+        "precip": 0.35,
+        "events": "Rain",
+        "mean_temp": 42
+    },
+    "12/7/16": {
+        "precip": 0.09,
+        "events": "Rain",
+        "mean_temp": 43
+    },
+    "12/8/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 40
+    },
+    "12/9/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 35
+    },
+    "12/10/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 32
+    },
+    "12/11/16": {
+        "precip": 0.03,
+        "events": "Snow",
+        "mean_temp": 32
+    },
+    "12/12/16": {
+        "precip": 0.5,
+        "events": "Rain",
+        "mean_temp": 40
+    },
+    "12/13/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 39
+    },
+    "12/14/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 38
+    },
+    "12/15/16": {
+        "precip": "T",
+        "events": "",
+        "mean_temp": 27
+    },
+    "12/16/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 22
+    },
+    "12/17/16": {
+        "precip": 0.73,
+        "events": "Rain-Snow",
+        "mean_temp": 32
+    },
+    "12/18/16": {
+        "precip": 0.04,
+        "events": "Fog-Rain",
+        "mean_temp": 45
+    },
+    "12/19/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 27
+    },
+    "12/20/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 27
+    },
+    "12/21/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 35
+    },
+    "12/22/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 43
+    },
+    "12/23/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 43
+    },
+    "12/24/16": {
+        "precip": 0.47,
+        "events": "Rain",
+        "mean_temp": 43
+    },
+    "12/25/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 43
+    },
+    "12/26/16": {
+        "precip": 0.02,
+        "events": "Rain",
+        "mean_temp": 42
+    },
+    "12/27/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 50
+    },
+    "12/28/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 37
+    },
+    "12/29/16": {
+        "precip": 0.39,
+        "events": "Rain",
+        "mean_temp": 40
+    },
+    "12/30/16": {
+        "precip": 0.01,
+        "events": "Fog-Snow",
+        "mean_temp": 37
+    },
+    "12/31/16": {
+        "precip": 0.0,
+        "events": "",
+        "mean_temp": 38
+    }
+}
