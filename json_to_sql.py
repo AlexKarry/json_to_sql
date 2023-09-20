@@ -1,7 +1,7 @@
 import sqlite3
 import json
 
-db_filename = '/Users/alexkarry/Desktop/FOLDERS/Programming/Python/Advanced_Python_NYU/python_data_apy/session_02_working_files/session_2.db'
+db_filename = '../session_2.db'
 
 conn = sqlite3.connect(db_filename)
 cursor = conn.cursor()
@@ -14,7 +14,7 @@ cursor.execute(create_table_query)
 
 insert_query = 'INSERT INTO weather_newyork (date, mean_temp, precip, events) VALUES (?, ?, ?, ?)'
 
-fh = open('/Users/alexkarry/Desktop/FOLDERS/Programming/Python/Advanced_Python_NYU/python_data_apy/session_02_working_files/weather_newyork_dod.json')
+fh = open('../weather_newyork_dod.json')
 load_file = json.load(fh)
 
 for date in load_file:
